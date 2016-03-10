@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_launch_codes" />
+    <string name="launch" />
+    <string name="Enter_Amount" />
+    <string name="Round_to_the_nearest_dollar" />
+    <string name="Calculate" />
+    <string name="stringRes" />
+    <string name="amount">Bill Amount</string>
+    <string name="roundTip">Round to the nearest dollar</string>
+    <string name="calculateButton">Calculate</string>
+    <string name="enterBill">Enter bill</string>
+</resources>

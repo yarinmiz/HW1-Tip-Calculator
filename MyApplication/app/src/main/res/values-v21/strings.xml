@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_launch_codes" />
+    <string name="launch" />
+    <string name="Enter_Amount" />
+    <string name="Round_to_the_nearest_dollar" />
+    <string name="Calculate" />
+    <string name="stringRes" />
+</resources>

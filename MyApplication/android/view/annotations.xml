@@ -1,0 +1,5 @@
+<root>
+  <item name='android.view.View void setOpticalInsets(android.graphics.Insets) 0'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+</root>
